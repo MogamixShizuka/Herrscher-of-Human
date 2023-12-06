@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_QGG_HOH_ELYSIA_PRIMARY_01</Type>
+			<Color>251,122,235,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_QGG_HOH_ELYSIA_SECONDARY_01</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_QGG_HOH_ELYSIA</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_QGG_HOH_ELYSIA_PRIMARY_01</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_QGG_HOH_ELYSIA_SECONDARY_01</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_STANDARD_WHITE_LT</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_STANDARD_BLUE_DK</Alt1SecondaryColor>
+		</Row>
+	</PlayerColors>
+</GameData>

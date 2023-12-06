@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_QGG_HOH_ELYSIA" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_QGG_HOH_ELYSIA" Kind="KIND_TRAIT"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_QGG_HOH_ELYSIA" Name="LOC_LEADER_QGG_HOH_ELYSIA_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+	</Leaders>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_QGG_HOH_ELYSIA" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE"/>
+	</LeaderQuotes>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_QGG_HOH_ELYSIA" TraitType="TRAIT_LEADER_QGG_HOH_ELYSIA"/>
+	</LeaderTraits>
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_QGG_HOH_ELYSIA" Name="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_NAME" Description="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_DESCRIPTION"/>
+	</Traits>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_QGG_HOH_ELYSIA" BackgroundImage="LOADING_BACKGROUND_QGG_HOH_ELYSIA" PlayDawnOfManAudio="1" LeaderText="LOC_LOADING_INFO_LEADER_QGG_HOH_ELYSIA"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_QGG_HOH_ELYSIA" BackgroundImage="DIPLOMACY_BACKGROUND_QGG_HOH_ELYSIA"/>
+	</DiplomacyInfo>
+</GameData>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Herrscher of Human Ego</Name>
+    <Guid>11784eca-d42a-4f62-9926-69bae623c0f5</Guid>
+    <ProjectGuid>d829c729-4b46-412d-be98-4d651ad03786</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>添加了永恒乐土文明和人之律者 爱莉希雅领袖</Teaser>
+    <Description>添加了永恒乐土文明和人之律者 爱莉希雅领袖</Description>
+    <Authors>千古歌</Authors>
+    <SpecialThanks>Zzz太卜司摸鱼侠，皮皮凯，优妮等人</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>Herrscher_of_Human</AssemblyName>
+    <RootNamespace>Herrscher_of_Human</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="config"><File>Herrscher_of_Human_Config.xml</File></UpdateDatabase><UpdateIcons id="icon"><File>Herrscher_of_Human_Icons.xml</File></UpdateIcons><UpdateColors id="color"><File>Herrscher_of_Human_Colors.xml</File></UpdateColors><UpdateText id="text"><File>Herrscher_of_Human_Text_en.xml</File><File>Herrscher_of_Human_Text_zh_Hans.xml</File></UpdateText><UpdateArt id="art"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><AddGameplayScripts id="lua"><File>Herrscher_of_Human_Code.lua</File></AddGameplayScripts><UpdateDatabase id="data999999"><Properties><LoadOrder>999999</LoadOrder></Properties><File>Herrscher_of_Human_Buildings.sql</File><File>Herrscher_of_Human_Civilization.xml</File><File>Herrscher_of_Human_Code.sql</File><File>Herrscher_of_Human_Feature.xml</File><File>Herrscher_of_Human_Leaders.xml</File></UpdateDatabase><UpdateDatabase id="data"><File>Herrscher_of_Human_Districts.xml</File></UpdateDatabase><UpdateArt id="art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="icon"><File>Herrscher_of_Human_Icons.xml</File></UpdateIcons><UpdateColors id="color"><File>Herrscher_of_Human_Colors.xml</File></UpdateColors><UpdateText id="text"><File>Herrscher_of_Human_Text_en.xml</File><File>Herrscher_of_Human_Text_zh_Hans.xml</File></UpdateText><UpdateAudio id="Audio"><File>Platforms/Windows/Audio/Herrscher_of_Human.ini</File></UpdateAudio><ImportFiles id="Notification"><File>HOHNotification.lua</File></ImportFiles></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Herrscher_of_Human.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Districts.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\LEAD_HERR_Elysia.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="EnvironmentLights\Elysia_Environment.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="EnvironmentLights\Elysia_Environment.env">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia.wig">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia_Camera.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia_Camera.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\LEAD_HERR_Elysia_Camera.wig">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Buildings.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Civilization.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Code.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Code.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Districts.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Feature.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Text_en.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Herrscher_of_Human_Text_zh_Hans.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="HOHNotification.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="LightRigs\Elysia_LightRig.lrg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\LEAD_HERR_Elysia_Material.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\187879073.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\842512266.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Music_Bank.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Music_Bank.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Music_Bank.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_of_Human.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Speech.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Speech.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Herrscher_Speech.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\PluginInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\HOHELYSIA.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeaderFallbacks.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\leader_elysia.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\Leader_LightRigs.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Assets\" />
+    <Folder Include="EnvironmentLights\" />
+    <Folder Include="Geometries\" />
+    <Folder Include="LightRigs\" />
+    <Folder Include="Materials\" />
+    <Folder Include="Platforms\" />
+    <Folder Include="Platforms\Windows\" />
+    <Folder Include="Platforms\Windows\Audio\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

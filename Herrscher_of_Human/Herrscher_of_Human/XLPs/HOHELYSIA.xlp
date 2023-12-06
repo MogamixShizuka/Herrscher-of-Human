@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="HOHELYSIA"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_BODHI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DECIMATION_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_GOLD_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_HELIX_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_INFINITY_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_REVERIE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_SETSUNA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_STARS_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_128"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_256"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_32"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_38"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_50"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_80"/>
+			<m_ObjectName text="ICON_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOH_ELYSIAN_REALM_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_128"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_22"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_256"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_32"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_38"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_50"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_QGG_HOH_ELYSIA_80"/>
+			<m_ObjectName text="ICON_DISTRICT_QGG_HOH_ELYSIA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_256"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_32"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_45"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_48"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_50"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_55"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_64"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_QGG_HOH_ELYSIA_80"/>
+			<m_ObjectName text="ICON_LEADER_QGG_HOH_ELYSIA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DIPLOMACY_BACKGROUND_QGG_HOH_ELYSIA"/>
+			<m_ObjectName text="DIPLOMACY_BACKGROUND_QGG_HOH_ELYSIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOADING_BACKGROUND_QGG_HOH_ELYSIA"/>
+			<m_ObjectName text="LOADING_BACKGROUND_QGG_HOH_ELYSIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SELECTION_LEADER_QGG_HOH_ELYSIA"/>
+			<m_ObjectName text="SELECTION_LEADER_QGG_HOH_ELYSIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_QGG_HOH_ELYSIA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_QGG_HOH_ELYSIA_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

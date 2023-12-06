@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	345329304	Herrscher_WARNING_A_01			\Default Work Unit\Speech\Herrscher_WARNING_A_01	
+	756926912	Herrscher_FIRST_MEET_A_01			\Default Work Unit\Speech\Herrscher_FIRST_MEET_A_01	
+	921979191	Herrscher_DECLARE_WAR_A_01			\Default Work Unit\Speech\Herrscher_DECLARE_WAR_A_01	
+	1859174711	Herrscher_DEFEAT_A_01			\Default Work Unit\Speech\Herrscher_DEFEAT_A_01	
+	2251127701	Herrscher_MISC_PEP_TALK_A_01			\Default Work Unit\Speech\Herrscher_MISC_PEP_TALK_A_01	
+	2765974227	Herrscher_DECLARE_WAR_FROM_AI_A_01			\Default Work Unit\Speech\Herrscher_DECLARE_WAR_FROM_AI_A_01	
+	3597091962	Herrscher_KUDOS_01			\Default Work Unit\Speech\Herrscher_KUDOS_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	109987054	Herrscher_Elysia_WARNING_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\	477571907	Herrscher_Elysia_KUDOS_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\	576993910	Herrscher_Elysia_DECLARE_WAR_FROM_AI_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\	595184140	Herrscher_Elysia_DECLARE_WAR_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\	756469642	Herrscher_Elysia_FIRST_MEET_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\	879744986	Herrscher_Elysia_MISC_PEP_TALK_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE_B93921CF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Herrscher\id88602518\id854467727\id424381547\Herrscher\Herrscher_Elysia_MISC_PEP_TALK_A		608608
+	893429893	Herrscher_Elysia_DEFEAT_A	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\

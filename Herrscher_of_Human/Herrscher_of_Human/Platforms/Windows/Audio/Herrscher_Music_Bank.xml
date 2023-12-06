@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\</ProjectRoot>
+		<SourceFilesRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3198597436" Language="SFX">
+			<ShortName>Herrscher_Music_Bank</ShortName>
+			<Path>Herrscher_Music_Bank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="854307629" Name="Pause_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="2033464613" Name="Play_Leader_HOH_ELYSIAN_REALM"/>
+				<Event Id="1617450983" Name="Play_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="641247092" Name="Resume_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="4186465679" Name="Start_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="3939398083" Name="Stop_Leader_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="1514898389" Name="Stop_Music_HOH_ELYSIAN_REALM"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="187879073" Language="SFX">
+					<ShortName>黄龄 HOYO-MiX - TruE (伴奏).wav</ShortName>
+					<Path>SFX\黄龄 HOYO-MiX - TruE (伴奏)_17C11484.wem</Path>
+				</File>
+				<File Id="842512266" Language="SFX">
+					<ShortName>HOYO-MiX - Elysian Realm.wav</ShortName>
+					<Path>SFX\HOYO-MiX - Elysian Realm_17C11484.wem</Path>
+				</File>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

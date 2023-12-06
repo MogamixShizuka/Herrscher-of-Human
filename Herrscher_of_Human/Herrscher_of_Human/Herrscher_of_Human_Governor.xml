@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Herrscher_of_Human -->
+<!-- Author: 引若河 -->
+<!-- DateCreated: 11/27/2023 4:45:45 PM -->
+<GameData>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_HOH_ELYSIAN_REALM" TraitType="TRAIT_GOVERNOR_QGG_KLEIN" />
+	</CivilizationTraits>
+</GameData>

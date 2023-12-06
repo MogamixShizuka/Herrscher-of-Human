@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_NAME" Language="zh_Hans_CN">
+			<Text>永恒乐土</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>永恒的乐园</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>永恒乐土的</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_ELYSIAN_REALM" Language="zh_Hans_CN">
+			<Text>永恒乐土</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_HOH_ELYSIAN_REALM_NAME" Language="zh_Hans_CN">
+			<Text>命定此身,璀耀永恒</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_HOH_ELYSIAN_REALM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>帝国境内的宜居度产出提高50%。娱乐区域内的建筑可以辐射到帝国全境。</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_LOCATION" Language="zh_Hans_CN">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_SIZE" Language="zh_Hans_CN">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_POPULATION" Language="zh_Hans_CN">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_CAPITAL" Language="zh_Hans_CN">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CREATION" Language="zh_Hans_CN">
+			<Text>创生</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DESTRUCTION" Language="zh_Hans_CN">
+			<Text>破坏</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SENTIENCE" Language="zh_Hans_CN">
+			<Text>意识</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DEVOURING" Language="zh_Hans_CN">
+			<Text>吞噬</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DOMINATION" Language="zh_Hans_CN">
+			<Text>支配</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_BINDING" Language="zh_Hans_CN">
+			<Text>约束</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CORRUPTION" Language="zh_Hans_CN">
+			<Text>侵蚀</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_REVELATION" Language="zh_Hans_CN">
+			<Text>启示</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SANCTION" Language="zh_Hans_CN">
+			<Text>裁决</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_STAGNATION" Language="zh_Hans_CN">
+			<Text>停滞</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_BLANK" Language="zh_Hans_CN">
+			<Text>空白</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CONQUER" Language="zh_Hans_CN">
+			<Text>征服</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DESIRE" Language="zh_Hans_CN">
+			<Text>渴望</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SILENCE" Language="zh_Hans_CN">
+			<Text>静谧</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DISEASE" Language="zh_Hans_CN">
+			<Text>疾疫</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KEVIN" Language="zh_Hans_CN">
+			<Text>凯文</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_ELYSIA" Language="zh_Hans_CN">
+			<Text>爱莉希雅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_APONIA" Language="zh_Hans_CN">
+			<Text>阿波尼亚</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_EDEN" Language="zh_Hans_CN">
+			<Text>伊甸</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_VILLV" Language="zh_Hans_CN">
+			<Text>维尔薇</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KALPAS" Language="zh_Hans_CN">
+			<Text>千劫</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SU" Language="zh_Hans_CN">
+			<Text>苏</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SAKURA" Language="zh_Hans_CN">
+			<Text>樱</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KOSMA" Language="zh_Hans_CN">
+			<Text>科斯魔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_MOBIUS" Language="zh_Hans_CN">
+			<Text>梅比乌斯</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_GRIESO" Language="zh_Hans_CN">
+			<Text>格蕾修</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_HUA" Language="zh_Hans_CN">
+			<Text>华</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_PARDOFELIS" Language="zh_Hans_CN">
+			<Text>帕朵菲莉丝</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_BUNNY" Language="zh_Hans_CN">
+			<Text>骇兔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_BINDING" Language="zh_Hans_CN">
+			<Text>约束之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_DEATH" Language="zh_Hans_CN">
+			<Text>死之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SENTIENCE" Language="zh_Hans_CN">
+			<Text>支配之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_VOID" Language="zh_Hans_CN">
+			<Text>空之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_DESTOBIA" Language="zh_Hans_CN">
+			<Text>黛丝多比娅</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_TRUTH" Language="zh_Hans_CN">
+			<Text>真理之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_thunder" Language="zh_Hans_CN">
+			<Text>雷之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_ORIGIN" Language="zh_Hans_CN">
+			<Text>始源之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_FINALITY" Language="zh_Hans_CN">
+			<Text>终焉之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_FLAMESCION" Language="zh_Hans_CN">
+			<Text>薪炎之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_REASON" Language="zh_Hans_CN">
+			<Text>理之律者</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_CORRUPTION" Language="zh_Hans_CN">
+			<Text>侵蚀之律者</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>领袖 天眷始终,爱佑世人[NEWLINE]所有玩家的所有城市+1宜居度。所有玩家的所有宜居度产出提高50%。[NEWLINE]愿大地丰饶:在没有地貌的地形上建造的改良会使周围的单元格基础产出翻倍。城市数量达到7后解锁该效果。[NEWLINE]愿海洋辽阔:沿河单位的移动力始终为满。单位海运移动力+3。水域单元格+1信仰,+1食物。沿海城市单元格扩张速率+100%。探索了13个海洋单元格后解锁。[NEWLINE]愿群星闪耀:城市的每个产生伟人点数的区域会让该城所有区域对应的伟人点数+1。每个城市达到7人口后解锁。[NEWLINE]愿时光永驻:巨作生成时为所在城市的所有区域+1对应相邻加成(单个城市上限7次)。招募7个伟人后解锁。[NEWLINE]愿光辉永恒:玩家每次进入新时代,你所拥有的奇观增加1点全产出。奇观建成后赠予产能10%大工程师点数,专业化区域建成后赠予所有伟人点数=0.007*当前回合数的范围内的随机数*已完成的科技市政总数。建造7个奇观后解锁。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_NAME" Language="zh_Hans_CN">
+			<Text>天眷始终,爱佑世人</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QGG_HOH_ELYSIA_NAME" Language="zh_Hans_CN">
+			<Text>爱莉希雅</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QGG_HOH_ELYSIA_NAME" Language="zh_Hans_CN">
+			<Text>永世乐土</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QGG_HOH_ELYSIA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>神秘主义解锁。需要人口。提供1点[ICON_Amenities]宜居度,其内建筑基础产出可辐射12格。建造完毕后赠送一个区域槽。产出1点全类型的伟人点数。[NEWLINE]当集齐12个刻印建筑时,下一个回合开始获得效果：如梦初醒，无暇一生。清除地图上所有单位，所有玩家的所有城市的生产力[ICON_Production]+50%。所有玩家地块产出+2食物[ICON_Food]+2生产力[ICON_Production]+2信仰值[ICON_Faith]。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_NAME" Language="zh_Hans_CN">
+			<Text>救世</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。为玩家所有单位+2[ICON_Strength]战斗力,玩家所有城市[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出+10%。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_NAME" Language="zh_Hans_CN">
+			<Text>戒律</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。建造区域+20%[ICON_Production]生产力。通配符槽位+1。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_GOLD_NAME" Language="zh_Hans_CN">
+			<Text>黄金</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_GOLD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。为剧院广场提供100%[ICON_Culture]相邻产出。鼓舞提供的文化值+12%[ICON_CivicBoosted]。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_HELIX_NAME" Language="zh_Hans_CN">
+			<Text>螺旋</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_HELIX_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。为工业区提供150%[ICON_Production]相邻产出。工业区额外获得2点[ICON_Production]相邻加成。其辐射范围+3。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DECIMATION_NAME" Language="zh_Hans_CN">
+			<Text>鏖灭</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DECIMATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。单位击杀获得15[ICON_Damaged]生命恢复,且维护费-1[ICON_Gold]。军事槽位+1。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_BODHI_NAME" Language="zh_Hans_CN">
+			<Text>天慧</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_BODHI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。外交能见度[ICON_VisOpen]+1。外交槽位+1。每回合影响力+12。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_SETSUNA_NAME" Language="zh_Hans_CN">
+			<Text>刹那</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_SETSUNA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。玩家全部城市获得1点[ICON_Amenities]宜居度。建造娱乐区域(包括永世乐土)及其里建筑+50%建造速度。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_NAME" Language="zh_Hans_CN">
+			<Text>旭光</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。所有城市伟人点数获得量+20%。获得时代分时,获得的时代分+1。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_INFINITY_NAME" Language="zh_Hans_CN">
+			<Text>无限</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_INFINITY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。为学院提供150%[ICON_Science]相邻产出。尤里卡提供的科技值+12%[ICON_TechBoosted]。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_STARS_NAME" Language="zh_Hans_CN">
+			<Text>繁星</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_STARS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。进行太空项目时加速30%。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_NAME" Language="zh_Hans_CN">
+			<Text>浮生</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。所有单位移动力+1[ICON_Movement]。且可以无视地形地貌以及河流减益。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_REVERIE_NAME" Language="zh_Hans_CN">
+			<Text>空梦</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_REVERIE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>提供1点[ICON_Amenities]宜居度,1点[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]产出。为商业中心和港口提供75%[ICON_Gold]相邻产出。经济槽位+1。</Text>
+		</Row>
+		<Row Tag="LOC_QGG_HOH_VIRTUAL_FEATURE_NAME" Language="zh_Hans_CN">
+			<Text>翻倍地貌</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE" Language="zh_Hans_CN">
+			<Text>悲剧并非终结,而是希望的起始。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_QGG_HOH_ELYSIA" Language="zh_Hans_CN">
+			<Text>「某一日,祂从天坠落。人们抬头仰望,于是看见了星空。」[NEWLINE]「星月送来神的女儿,她愿成为人的伴侣。」[NEWLINE]「长风化作她的轺车,四海落成她的园圃。鸟雀衔来善的种子,百花编织爱的颂歌。」[NEWLINE]「她便是这样降生于世,行于大地,与人类一同长大,与世界一起发芽。」[NEWLINE]「而今,终焉之时将至。」[NEWLINE]「而今,归去之时已至。」[NEWLINE]「就此告别吧,美丽的世界。」[NEWLINE]「此后,将有群星闪耀,因为我如今来过。」[NEWLINE]「此后,将有百花绽放,因为我从未离去。」[NEWLINE]「请将我的箭、我的花、与我的爱,织成新生的种子,带向那枯萎的大地。」[NEWLINE]「然后,便让它开出永恒而无瑕的…人性之华吧。」[NEWLINE]「我名为爱莉希雅……」[NEWLINE]「最初的律者,人之律者。」</Text>
+		</Row>
+		
+		<Row Tag="LOC_HOHNoticification" Language="zh_Hans_CN">
+			<Text>由愿光辉永恒获得的伟人点</Text>
+		</Row>
+		<Row Tag="LOC_HOHNoticification_EXPLAIN" Language="zh_Hans_CN">
+			<Text>获得了{1_pAmount}全类型的伟人点数</Text>
+		</Row>
+	</LocalizedText>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_NAME" Language="en_US">
+			<Text>Elysian Realm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_DESCRIPTION" Language="en_US">
+			<Text>Elysian Realm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOH_ELYSIAN_REALM_ADJECTIVE" Language="en_US">
+			<Text>Elysian Realm`s</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_ELYSIAN_REALM" Language="en_US">
+			<Text>Elysian Realm</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_HOH_ELYSIAN_REALM_NAME" Language="en_US">
+			<Text>Radiant Destiny</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_HOH_ELYSIAN_REALM_DESCRIPTION" Language="en_US">
+			<Text>Increases non-[ICON_Food]Food yield benefits of Happiness in your empire by 50%. </Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_LOCATION" Language="en_US">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_SIZE" Language="en_US">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_POPULATION" Language="en_US">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CIVILIZATION_HOH_ELYSIAN_REALM_CAPITAL" Language="en_US">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CREATION" Language="en_US">
+			<Text>Creation</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DESTRUCTION" Language="en_US">
+			<Text>Destruction</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SENTIENCE" Language="en_US">
+			<Text>Sentience</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DEVOURING" Language="en_US">
+			<Text>Devouring</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DOMINATION" Language="en_US">
+			<Text>Domination</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_BINDING" Language="en_US">
+			<Text>Binding</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CORRUPTION" Language="en_US">
+			<Text>Corruption</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_REVELATION" Language="en_US">
+			<Text>Reve</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SANCTION" Language="en_US">
+			<Text>Sanction</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_STAGNATION" Language="en_US">
+			<Text>Stagnation</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_BLANK" Language="en_US">
+			<Text>Blank</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_CONQUER" Language="en_US">
+			<Text>Conquer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DESIRE" Language="en_US">
+			<Text>Desire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_SILENCE" Language="en_US">
+			<Text>Silence</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOH_DISEASE" Language="en_US">
+			<Text>Disease</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KEVIN" Language="en_US">
+			<Text>Kevin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_ELYSIA" Language="en_US">
+			<Text>Elysia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_APONIA" Language="en_US">
+			<Text>Aponia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_EDEN" Language="en_US">
+			<Text>Eden</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_VILLV" Language="en_US">
+			<Text>VillV</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KALPAS" Language="en_US">
+			<Text>Kalpas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SU" Language="en_US">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SAKURA" Language="en_US">
+			<Text>Sakura</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_KOSMA" Language="en_US">
+			<Text>Kosma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_MOBIUS" Language="en_US">
+			<Text>Mobius</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_GRIESO" Language="en_US">
+			<Text>Griseo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_HUA" Language="en_US">
+			<Text>Hua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_PARDOFELIS" Language="en_US">
+			<Text>Pardofelis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_BUNNY" Language="en_US">
+			<Text>Bunny</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_BINDING" Language="en_US">
+			<Text>Herrscher of Binding</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_DEATH" Language="en_US">
+			<Text>Herrscher of Death</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_SENTIENCE" Language="en_US">
+			<Text>Herrscher of Sentience</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_VOID" Language="en_US">
+			<Text>Herrscher of Void</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_DESTOBIA" Language="en_US">
+			<Text>Destobia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_TRUTH" Language="en_US">
+			<Text>Herrscher of Truth</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_thunder" Language="en_US">
+			<Text>Herrscher of Thunder</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_ORIGIN" Language="en_US">
+			<Text>Herrscher of Origin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_FINALITY" Language="en_US">
+			<Text>Herrscher of Finality</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_FLAMESCION" Language="en_US">
+			<Text>Herrscher of Flamescion</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_REASON" Language="en_US">
+			<Text>Herrscher of Reason</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_HOH_CORRUPTION" Language="en_US">
+			<Text>Herrscher of Corruption</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] for all players` cities。Increases non-[ICON_Food]Food yield benefits of Happiness in all empire by 50%.[NEWLINE]Wish for Earth:Doubles the terrain yields of all adjacent tiles on your improvement`s plot where there is no feature.Unlock the effect when you have 7 cities.[NEWLINE]Wish for Sea:Units on river have full movement forever.+3[ICON_Movement] when your units are on sea.+1[ICON_Faith] +1[ICON_Food] for your lake, coast and ocean plots. Unlock the effect when you explore 13 ocean plots.[NEWLINE]Wish for Stars: Each district which produce great person point makes single city`s all districts` producing great person point +1. Unlock the effect when your single city has 7 population. [NEWLINE]Wish for Time: When your greatwork added to your city, +1 adjacency for your all districts in this city(7 Max for each city). Unlock this effect when you recruit 7 great people.[NEWLINE]Wish for Glory :When you enter a new era, all wonders you have +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. When you have finished wonder you will get 10% great engineering points of its production. When your special district has finished, you will get all type of great peoplo points equal to 0.007 * Random Number(Max is current turn) * Techs and Civics you have researched. Unlock the effect when you have finished 7 wonders.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QGG_HOH_ELYSIA_NAME" Language="en_US">
+			<Text>Goddess bless you.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QGG_HOH_ELYSIA_NAME" Language="en_US">
+			<Text>Elysia</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QGG_HOH_ELYSIA_NAME" Language="en_US">
+			<Text>Elysian Realm</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QGG_HOH_ELYSIA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 district slot.+1 all type great people points.[NEWLINE]When you build 12 buildings in it, next turn all units on map will be killed. All players +50% [ICON_Production], all players` plot +2 [ICON_Food] +2 [ICON_Production] +2 [ICON_Faith].</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_NAME" Language="en_US">
+			<Text>Deliverance</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DELIVERANCE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +2[ICON_Strength] , +10%[ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith] for all your cities.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_NAME" Language="en_US">
+			<Text>Discipline</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DISCIPLINE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. When building districts +20%[ICON_Production]. +1 wildcard slot.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_GOLD_NAME" Language="en_US">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_GOLD_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +100% adjacent bonus for theater. +12%[ICON_CivicBoosted] for inspiration.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_HELIX_NAME" Language="en_US">
+			<Text>Helix </Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_HELIX_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +150% adjacent bonus for industrial zone. +2 base adjaceny. +3 regional range.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DECIMATION_NAME" Language="en_US">
+			<Text>Decimation</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DECIMATION_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. Units +15 heal after victory, -1[ICON_Gold] maintenance. +1 military slot.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_BODHI_NAME" Language="en_US">
+			<Text>Bodhi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_BODHI_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +1[ICON_VisOpen]。+1 diplomacy slot. +12 influence per turn.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_SETSUNA_NAME" Language="en_US">
+			<Text>Setsuna</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_SETSUNA_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +1点[ICON_Amenities]. +50 production for entertainment districts(include Elysian Realm) and their buildings.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_NAME" Language="en_US">
+			<Text>Daybreak</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_DAYBREAK_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. All your cities +20% great people points. +1 score when you get era score.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_INFINITY_NAME" Language="en_US">
+			<Text>Infinity</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_INFINITY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +150%[ICON_Science] adjacency for campus. +12%[ICON_TechBoosted] for ulk.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_STARS_NAME" Language="en_US">
+			<Text>Stars</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_STARS_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +30% production for space races.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_NAME" Language="en_US">
+			<Text>Vicissitude</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_VICISSITUDE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. +1[ICON_Movement]. Ignore all terrain and feature movement cost.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_REVERIE_NAME" Language="en_US">
+			<Text>Reverie</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_QGG_HOH_ELYSIA_REVERIE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] +1 [ICON_Science][ICON_Gold][ICON_Production][ICON_Food][ICON_Culture][ICON_Faith]. + 75%[ICON_Gold] for harbor and commercial hub. +1 ecnomic slot.</Text>
+		</Row>
+		<Row Tag="LOC_QGG_HOH_VIRTUAL_FEATURE_NAME" Language="en_US">
+			<Text>--</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE" Language="en_US">
+			<Text>-- </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_QGG_HOH_ELYSIA" Language="en_US">
+			<Text>--</Text>
+		</Row>
+		<Row Tag="LOC_HOHNoticification" Language="en_US">
+			<Text>Wish for Glory</Text>
+		</Row>
+		<Row Tag="LOC_HOHNoticification_EXPLAIN" Language="en_US">
+			<Text>get {1_pAmount} points</Text>
+		</Row>
+</LocalizedText>
+</GameData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\</ProjectRoot>
+		<SourceFilesRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\BaiduSyncdisk\Wwise\Mondstadt\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="456653456" Language="SFX">
+			<ShortName>Herrscher_Speech</ShortName>
+			<Path>Herrscher_Speech.bnk</Path>
+			<IncludedEvents>
+				<Event Id="921979191" Name="Herrscher_DECLARE_WAR_A_01"/>
+				<Event Id="2765974227" Name="Herrscher_DECLARE_WAR_FROM_AI_A_01"/>
+				<Event Id="1859174711" Name="Herrscher_DEFEAT_A_01"/>
+				<Event Id="756926912" Name="Herrscher_FIRST_MEET_A_01"/>
+				<Event Id="3597091962" Name="Herrscher_KUDOS_01"/>
+				<Event Id="2251127701" Name="Herrscher_MISC_PEP_TALK_A_01"/>
+				<Event Id="345329304" Name="Herrscher_WARNING_A_01"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="109987054" Language="SFX">
+					<ShortName>领袖敌视玩家.wav</ShortName>
+					<Path>SFX\领袖敌视玩家_B93921CF.wem</Path>
+				</File>
+				<File Id="477571907" Language="SFX">
+					<ShortName>领袖对玩家有好感.wav</ShortName>
+					<Path>SFX\领袖对玩家有好感_B93921CF.wem</Path>
+				</File>
+				<File Id="576993910" Language="SFX">
+					<ShortName>主动宣战.wav</ShortName>
+					<Path>SFX\主动宣战_B93921CF.wem</Path>
+				</File>
+				<File Id="595184140" Language="SFX">
+					<ShortName>被宣战.wav</ShortName>
+					<Path>SFX\被宣战_B93921CF.wem</Path>
+				</File>
+				<File Id="756469642" Language="SFX">
+					<ShortName>初次见面.wav</ShortName>
+					<Path>SFX\初次见面_B93921CF.wem</Path>
+				</File>
+				<File Id="879744986" Language="SFX">
+					<ShortName>LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE.wav</ShortName>
+					<Path>SFX\LOC_PEDIA_LEADERS_PAGE_LEADER_QGG_HOH_ELYSIA_QUOTE_B93921CF.wem</Path>
+				</File>
+				<File Id="893429893" Language="SFX">
+					<ShortName>战败.wav</ShortName>
+					<Path>SFX\战败_B93921CF.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

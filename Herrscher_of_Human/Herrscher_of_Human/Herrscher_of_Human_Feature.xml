@@ -1,0 +1,9 @@
+<GameInfo>
+    <Types>
+    <Row Type="QGG_HOH_VIRTUAL_FEATURE" Kind="KIND_FEATURE"/>
+    </Types>
+    <Features>
+    	<Row FeatureType="QGG_HOH_VIRTUAL_FEATURE" Name="LOC_QGG_HOH_VIRTUAL_FEATURE_NAME" DoubleAdjacentTerrainYield="true" RemoveTech="TECH_MINING" Removable="true"/>
+    </Features>
+	
+</GameInfo>

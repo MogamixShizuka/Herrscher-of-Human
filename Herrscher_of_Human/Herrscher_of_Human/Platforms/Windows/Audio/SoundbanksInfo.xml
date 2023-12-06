@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>E:\MyDocument\WwiseProjects\HOH\</ProjectRoot>
+		<SourceFilesRoot>E:\MyDocument\WwiseProjects\HOH\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\MyDocument\WwiseProjects\HOH\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\MyDocument\WwiseProjects\HOH\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="661343853" Language="SFX">
+			<ShortName>HOHElysianRealm.wav</ShortName>
+			<Path>SFX\HOHElysianRealm_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="893860398" Language="SFX">
+			<ShortName>SB_HOH</ShortName>
+			<Path>SB_HOH.bnk</Path>
+			<IncludedEvents>
+				<Event Id="854307629" Name="Pause_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="3510026727" Name="Play_Leadedr_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="1617450983" Name="Play_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="641247092" Name="Resume_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="3939398083" Name="Stop_Leader_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="1514898389" Name="Stop_Music_HOH_ELYSIAN_REALM"/>
+				<Event Id="4177806417" Name="Strat_Music_HOH_ELYSIAN_REALM"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="661343853"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="661343853" Language="SFX">
+					<ShortName>HOHElysianRealm.wav</ShortName>
+					<Path>SFX\HOHElysianRealm_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

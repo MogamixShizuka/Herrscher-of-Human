@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	641247092	Resume_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Resume_Music_HOH_ELYSIAN_REALM	
+	854307629	Pause_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Pause_Music_HOH_ELYSIAN_REALM	
+	1514898389	Stop_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Stop_Music_HOH_ELYSIAN_REALM	
+	1617450983	Play_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Play_Music_HOH_ELYSIAN_REALM	
+	2033464613	Play_Leader_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Play_Leader_HOH_ELYSIAN_REALM	
+	3939398083	Stop_Leader_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Stop_Leader_Music_HOH_ELYSIAN_REALM	
+	4186465679	Start_Music_HOH_ELYSIAN_REALM			\Default Work Unit\Music_01\Start_Music_HOH_ELYSIAN_REALM	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	187879073		842512266	HOYO-MiX - Elysian Realm	E:\BaiduSyncdisk\Wwise\Mondstadt\.cache\Windows\SFX\HOYO-MiX - Elysian Realm_17C11484.wem	842512266.wem	\Interactive Music Hierarchy\HerrscherBackgroundMusic\ThemeMusic_Herrscher\Herrscher_Ancient\HOYO-MiX - Elysian Realm	
+
